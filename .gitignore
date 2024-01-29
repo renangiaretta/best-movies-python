@@ -1,0 +1,9 @@
+<<<<<<< Updated upstream
+__pycache__
+db.sqlite3
+venv
+=======
+venv
+__pycache__
+db.sqlite3
+>>>>>>> Stashed changes
